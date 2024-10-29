@@ -11118,7 +11118,7 @@ menu.divider(menu.my_root(), "Credits")
 local INFO = menu.list(menu.my_root(), "This script was made by", { "nyscriptcredits" }, "See all creators.", function() end)
 
 menu.divider(INFO, "Script by :")
-menu.hyperlink(INFO, "nyxz.os", "https://discord.com/users/433382991876849684", "Our Discord Profiles :)")
+menu.hyperlink(INFO, "ny", "https://discord.com/users/433382991876849684", "Our Discord Profiles :)")
 menu.hyperlink(INFO, "missb4by", "https://discord.com/users/1147960867665756212", "Our Discord Profiles :)")
 menu.divider(INFO, "Heist Control")
 menu.hyperlink(INFO, "IceDoomfist", "https://discord.com/users/866632873925672960", "IceDoomfist Discord profile (Heist Control)")
@@ -11127,4 +11127,4 @@ menu.hyperlink(INFO, "GitHub", "https://github.com/calamity-inc/MusinessBanager"
 menu.divider(INFO, "Random Events")
 menu.hyperlink(INFO, "LordByron_", "https://discord.com/users/575619654324846613", "LordByron_ Discord profile (Random Events)")
 
-menu.divider(menu.my_root(), "V1.0") -- release version
+menu.divider(menu.my_root(), "V1.1") -- release version
